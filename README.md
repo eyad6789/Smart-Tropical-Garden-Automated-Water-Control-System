@@ -27,7 +27,7 @@ This Arduino project is an **automated water control system** for plant care in 
 
 ---
 
-## 🧰 Hardware Components
+## Hardware Components
 
 | Component             | Function                                |
 |----------------------|------------------------------------------|
